@@ -1,26 +1,10 @@
-# 苹果美区账号APPLE ID 免费账号共享| Shadowsocks
+# 节点订阅使用教程
 
-写在前面：本分享学习教程，存在意义是给经常需要外网 查阅资料/学术研究/使用ChatGPT/Gemini/Instagram追星/玩虚拟资产BTCETH币安OKX交易所/外贸购物 等正常使用人士提供一个教程教学平台，多有不足还望Issues指出，喜欢请一键2连，Star+fork
+SS/SSR/V2ray/Trojan 各平台节点订阅配置教程。
 
-看完你可以获得什么？
-你可能会体验到你人生中第一次浏览国际网络的畅快之感，不语言表，直接开始吧！各种系统都支持
+## 教程列表
 
-## SS/SSR/V2ray/Trojan 节点订阅使用教程，很简单，仔细看。
-
-【1】[1.1 iOS苹果 节点订阅使用教程 点我](1.1-iOS苹果-节点订阅使用教程.md)
-
-【2】[1.2 Android安卓 节点订阅使用教程 点我](1.2-Android安卓-节点订阅使用教程.md)
-
-【3】[1.3 Windows电脑 节点订阅使用教程 点我](1.3-Windows电脑-节点订阅使用教程.md)
-
-【4】[1.4 Mac电脑 节点订阅使用教程 点我](1.4-Mac电脑-节点订阅使用教程.md)
-
-【5】[---重要---任何问题先点我---任何不明白点我---重要---](https://github.com/shadowrocketHelp/help/wiki/%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%EF%BC%8C%E5%85%88%E7%82%B9%E6%88%91)
-
-
-
-## 其他干货
-
-【1】[苹果商店appstore账号分享](https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB)
-
-【2】[优秀付费订阅节点推荐](https://github.com/shadowrocketHelp/help/wiki/%E3%80%90%E4%BC%98%E7%A7%80%E4%BB%98%E8%B4%B9%E8%8A%82%E7%82%B9%E3%80%91)
+- [iOS（Shadowrocket）](1.1-iOS苹果-节点订阅使用教程.md)
+- [Android（v2rayNG / Clash）](1.2-Android安卓-节点订阅使用教程.md)
+- [Windows（v2rayN / Clash）](1.3-Windows电脑-节点订阅使用教程.md)
+- [Mac（Shadowrocket / ClashX）](1.4-Mac电脑-节点订阅使用教程.md)
